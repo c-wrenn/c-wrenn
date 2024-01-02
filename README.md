@@ -12,6 +12,11 @@ Whether it's front-end development to create seamless user experiences or diving
  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs)](https://skillicons.dev)
 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/crislyn-wren-8a98562a2)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/c-wrenn)
+
+
  
 <!---
 c-wrenn/c-wrenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
